@@ -25,4 +25,3 @@ git checkout main
 
 
 
------ prueba git status
