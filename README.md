@@ -22,3 +22,7 @@ git checkout main
 ## Referencias
 
 - https://git-scm.com/
+
+
+
+# prueba git status
